@@ -7,7 +7,7 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 //MergeArray();
 //CopyFromEndProgram();
 //DifferentNumbers();
-UnionTwoArray();
+//UnionTwoArray();
 
 void MergeArray()
 {
