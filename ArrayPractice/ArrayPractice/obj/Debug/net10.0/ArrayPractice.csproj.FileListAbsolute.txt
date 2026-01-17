@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\CSharp-Problem-Solving\ArrayPractice\ArrayPractice\bin\Debug\net10.0\ArrayPractice.exe
+\\Mac\Home\Desktop\CSharp-Problem-Solving\ArrayPractice\ArrayPractice\bin\Debug\net10.0\ArrayPractice.deps.json
+\\Mac\Home\Desktop\CSharp-Problem-Solving\ArrayPractice\ArrayPractice\bin\Debug\net10.0\ArrayPractice.runtimeconfig.json
+\\Mac\Home\Desktop\CSharp-Problem-Solving\ArrayPractice\ArrayPractice\bin\Debug\net10.0\ArrayPractice.dll
+\\Mac\Home\Desktop\CSharp-Problem-Solving\ArrayPractice\ArrayPractice\bin\Debug\net10.0\ArrayPractice.pdb
+\\Mac\Home\Desktop\CSharp-Problem-Solving\ArrayPractice\ArrayPractice\obj\Debug\net10.0\ArrayPractice.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\CSharp-Problem-Solving\ArrayPractice\ArrayPractice\obj\Debug\net10.0\ArrayPractice.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\CSharp-Problem-Solving\ArrayPractice\ArrayPractice\obj\Debug\net10.0\ArrayPractice.AssemblyInfo.cs
+\\Mac\Home\Desktop\CSharp-Problem-Solving\ArrayPractice\ArrayPractice\obj\Debug\net10.0\ArrayPractice.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\CSharp-Problem-Solving\ArrayPractice\ArrayPractice\obj\Debug\net10.0\ArrayPractice.dll
+\\Mac\Home\Desktop\CSharp-Problem-Solving\ArrayPractice\ArrayPractice\obj\Debug\net10.0\refint\ArrayPractice.dll
+\\Mac\Home\Desktop\CSharp-Problem-Solving\ArrayPractice\ArrayPractice\obj\Debug\net10.0\ArrayPractice.pdb
+\\Mac\Home\Desktop\CSharp-Problem-Solving\ArrayPractice\ArrayPractice\obj\Debug\net10.0\ArrayPractice.genruntimeconfig.cache
+\\Mac\Home\Desktop\CSharp-Problem-Solving\ArrayPractice\ArrayPractice\obj\Debug\net10.0\ref\ArrayPractice.dll

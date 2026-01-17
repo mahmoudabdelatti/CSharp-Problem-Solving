@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Desktop\\CSharp-Problem-Solving\\ArrayPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA085C6A-55C7-D7F3-CD39-EFAF416FC6B3}|ArrayPractice\\ArrayPractice.csproj|\\\\mac\\home\\desktop\\csharp-problem-solving\\arraypractice\\arraypractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\CSharp-Problem-Solving\\ArrayPractice\\ArrayPractice\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayPractice\\Program.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\CSharp-Problem-Solving\\ArrayPractice\\ArrayPractice\\Program.cs",
+              "RelativeToolTip": "ArrayPractice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T19:33:01.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
